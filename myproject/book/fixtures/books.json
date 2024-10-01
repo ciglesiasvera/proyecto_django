@@ -1,0 +1,56 @@
+[
+    {
+        "model": "book.book",
+        "pk": 1,
+        "fields": {
+            "title": "Django 3 Web Development CookBook Fourth Edition",
+            "author": "Aidas Bendoraitis",
+            "rating": 3250
+        }
+    },
+    {
+        "model": "book.book",
+        "pk": 2,
+        "fields": {
+            "title": "Two Scoops of Django 3.x",
+            "author": "Daniel Feldroy",
+            "rating": 1570
+        }
+    },
+    {
+        "model": "book.book",
+        "pk": 3,
+        "fields": {
+            "title": "El libro de Django",
+            "author": "Adrian Holovaty",
+            "rating": 1000
+        }
+    },
+    {
+        "model": "book.book",
+        "pk": 4,
+        "fields": {
+            "title": "Python Web Development with Django",
+            "author": "Jeff Forcier",
+            "rating": 1200
+        }
+    },
+    {
+        "model": "book.book",
+        "pk": 5,
+        "fields": {
+            "title": "Django for Professionals",
+            "author": "William S. Vincent",
+            "rating": 2100
+        }
+    },
+    {
+        "model": "book.book",
+        "pk": 6,
+        "fields": {
+            "title": "Django for APIs",
+            "author": "William S. Vincent",
+            "rating": 2540
+        }
+    }
+]
